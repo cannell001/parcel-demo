@@ -1,0 +1,15 @@
+/* @import "custom"; */
+
+body {
+    /* background: $pink-700; */
+    background: pink
+}
+
+#message-ES6 {
+    /* color: $yellow-a700; */
+    color: yellow;
+    font-size: 3em;
+    text-align: center;
+    /* background-color: $blue-700; */
+    background-color: blue;
+}
